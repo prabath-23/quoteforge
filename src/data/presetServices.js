@@ -1,0 +1,18 @@
+export const PRESET_SERVICES = [
+  { label: 'Starter Site ₹15,000', name: 'Starter Site', price: 15000 },
+  { label: 'Standard Site ₹25,000', name: 'Standard Site', price: 25000 },
+  { label: 'Premium Portfolio ₹50,000', name: 'Premium Portfolio', price: 50000 },
+  { label: 'E-Commerce ₹1,00,000', name: 'E-Commerce Website', price: 100000 },
+  { label: 'Project Page ₹3,000', name: 'Project Page', price: 3000 },
+  { label: 'Photography ₹8,000', name: 'Photography', price: 8000 },
+  { label: 'Reels 1/week ₹7,000/mo', name: 'Reels — 1/week (Monthly)', price: 7000 },
+  { label: 'Reels 3/week ₹20,000/mo', name: 'Reels — 3/week (Monthly)', price: 20000 },
+  { label: 'GMB Setup ₹1,500', name: 'Google Business Profile Setup', price: 1500 },
+  { label: 'WhatsApp Setup ₹2,000', name: 'WhatsApp Business Setup', price: 2000 },
+  { label: 'SEO Setup ₹5,000', name: 'SEO Setup', price: 5000 },
+  { label: 'Domain 3yr ₹4,500', name: 'Domain Registration (3 Years)', price: 4500 },
+  { label: 'Business Email ₹1,200', name: 'Business Email', price: 1200 },
+  { label: 'Hosting/mo ₹2,000', name: 'Hosting (Monthly)', price: 2000 },
+  { label: 'Maintenance/mo ₹2,000', name: 'Maintenance (Monthly)', price: 2000 },
+  { label: 'Extra Page ₹2,500', name: 'Extra Page', price: 2500 },
+];
